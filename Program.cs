@@ -1,14 +1,20 @@
 ﻿string[] input = File.ReadAllLines("input-test.txt");
 
-string [] times = input[0].Split(' ');
-string [] distances = input[1].Split(' ');
-foreach (string index in input)
+List<int> times = new List<int>();
+List<int> distances = new List<int>();
 
-
-foreach (string line in times){
-    Console.Write(line + ", ");
+foreach (string index in input[0].Split(' '))
+{
+    if(index != string.Empty && Char.IsDigit(index, 0))
+    {
+        times.Add(int.Parse(index));
+    }
 }
-Console.WriteLine();
-foreach (string line in distances){
-    Console.Write(line + ", ");
+
+foreach (string index in input[1].Split(' '))
+{
+    if(index != string.Empty && Char.IsDigit(index, 0))
+    {
+        distances.Add(int.Parse(index));
+    }
 }
