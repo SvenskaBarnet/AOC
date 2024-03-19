@@ -1,0 +1,14 @@
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\bin\Debug\net7.0\trebuchet.exe
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\bin\Debug\net7.0\trebuchet.deps.json
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\bin\Debug\net7.0\trebuchet.runtimeconfig.json
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\bin\Debug\net7.0\trebuchet.dll
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\bin\Debug\net7.0\trebuchet.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.AssemblyInfoInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.AssemblyInfo.cs
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.csproj.CoreCompileInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.dll
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\refint\trebuchet.dll
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\trebuchet.genruntimeconfig.cache
+C:\Users\klas_\source\repos\Advent-of-Code\2023\trebuchet\obj\Debug\net7.0\ref\trebuchet.dll
