@@ -1,0 +1,14 @@
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\bin\Debug\net7.0\tuning-trouble.exe
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\bin\Debug\net7.0\tuning-trouble.deps.json
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\bin\Debug\net7.0\tuning-trouble.runtimeconfig.json
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\bin\Debug\net7.0\tuning-trouble.dll
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\bin\Debug\net7.0\tuning-trouble.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.AssemblyInfoInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.AssemblyInfo.cs
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.csproj.CoreCompileInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.dll
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\refint\tuning-trouble.dll
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\tuning-trouble.genruntimeconfig.cache
+C:\Users\klas_\source\repos\Advent-of-Code\tuning-trouble\obj\Debug\net7.0\ref\tuning-trouble.dll
