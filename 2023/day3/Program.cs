@@ -1,0 +1,1 @@
+﻿File.Create("input.txt");

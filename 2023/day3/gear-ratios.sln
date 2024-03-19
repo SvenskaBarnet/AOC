@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gear-ratios", "gear-ratios.csproj", "{ABC16AC5-AE86-48A9-AA7A-838DACA9DA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC16AC5-AE86-48A9-AA7A-838DACA9DA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC16AC5-AE86-48A9-AA7A-838DACA9DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC16AC5-AE86-48A9-AA7A-838DACA9DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC16AC5-AE86-48A9-AA7A-838DACA9DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CA2CC9-95D4-4D3D-A5CB-A24E9270B9BC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\bin\Debug\net8.0\scratchcards.exe
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\bin\Debug\net8.0\scratchcards.deps.json
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\bin\Debug\net8.0\scratchcards.runtimeconfig.json
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\bin\Debug\net8.0\scratchcards.dll
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\bin\Debug\net8.0\scratchcards.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.AssemblyInfoInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.AssemblyInfo.cs
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.csproj.CoreCompileInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.sourcelink.json
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.dll
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\refint\scratchcards.dll
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\scratchcards.genruntimeconfig.cache
+C:\Users\klas_\source\repos\Advent-of-Code\2023\scratchcards\obj\Debug\net8.0\ref\scratchcards.dll
