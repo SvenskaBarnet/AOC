@@ -1,0 +1,14 @@
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\bin\Debug\net7.0\supply-stacks.exe
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\bin\Debug\net7.0\supply-stacks.deps.json
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\bin\Debug\net7.0\supply-stacks.runtimeconfig.json
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\bin\Debug\net7.0\supply-stacks.dll
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\bin\Debug\net7.0\supply-stacks.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.AssemblyInfoInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.AssemblyInfo.cs
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.csproj.CoreCompileInputs.cache
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.dll
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\refint\supply-stacks.dll
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.pdb
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\supply-stacks.genruntimeconfig.cache
+C:\Users\klas_\source\repos\Advent-of-Code\supply-stacks\obj\Debug\net7.0\ref\supply-stacks.dll
